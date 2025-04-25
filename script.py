@@ -1,7 +1,6 @@
 import os
 import shutil
-from tkinter import*
-import tkinter as tk
+
 
 def project():
     name=input("enter your name project:")
